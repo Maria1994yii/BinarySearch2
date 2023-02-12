@@ -1,0 +1,3 @@
+﻿  FirstTraining.cpp
+C:\Users\мариа\source\repos\FirstTraining\FirstTraining\FirstTraining.cpp(65): warning C4715: binSearch: значение возвращается не при всех путях выполнения
+  FirstTraining.vcxproj -> C:\Users\мариа\source\repos\FirstTraining\x64\Debug\FirstTraining.exe
